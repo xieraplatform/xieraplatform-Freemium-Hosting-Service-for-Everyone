@@ -1,9 +1,7 @@
-# ⚡ Live Web Project Deployment Showcase
+# ⚡ XieraPlatform.id || freemium web hosting provider
 
 <p align="center">
-  <img src="https://shields.io" alt="Version">
-  <img src="https://shields.io" alt="Speed">
-  <img src="https://shields.io" alt="Security">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemMydjNhZmNyb2c0N2FjMHJudHhtNDF5Ymd1bTNrZWR6aG12dzBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" alt="Website Preview Demo Animation" width="100%" max-width="800px" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 <p align="center">
@@ -83,13 +81,6 @@ Esta aplicación está alojada en el ecosistema avanzado de **Xiera Platform** c
 - **Entorno de Backend:** Optimización completa y soporte para scripts **PHP (v5.6 hasta v8.5)**.
 - **Base de Datos:** Impulsado por bases de datos independientes y confiables de **MariaDB**.
 - **Beneficios Extra:** Hasta **10GiB de almacenamiento en la nube**, *Quick-App Installer* y análisis de tráfico mediante **AWStats**.
-
-### 🔒 Marco de Seguridad
-La integridad de los datos y el blindaje del servidor se mantienen bajo un modelo de defensa empresarial:
-- **Cifrado de Datos:** Certificados **SSL Gratuitos** automatizados emitidos por *Let's Encrypt*.
-- **Defensa Central:** Protegido por **Xecurity 16 con ESec9** junto con un sistema activo de **Aislamiento de Usuarios**.
-- **Ciberseguridad:** Mitigación de riesgos mediante *iptables, Fail2Ban, ipset, AppArmor* y *PHP-FPM Chroot Jail*.
-- **Control de Acceso:** Autenticación por capas mediante **TOTP-2FA** y un *Gestor de Sesiones* avanzado.
 
 ---
 <p align="center">Made with ❤️ and powered by <a href="https://xierahost.my.id">Xiera Platform</a></p>
